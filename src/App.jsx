@@ -327,11 +327,12 @@ export default function App() {
       <main id="top" className="page">
         <section className="hero-panel is-visible" data-reveal>
           <div className="hero-copy">
-            <p className="eyebrow">Salesforce Developer | 2x Certified | Apex, LWC, Integration Expert</p>
-            <h1>Salesforce solutions that are clear, scalable, and built for real business needs.</h1>
+            <p className="eyebrow">Salesforce Developer in Indore | 2x Certified | Apex, LWC, Integration Expert</p>
+            <h1>Salesforce Developer in Indore delivering scalable CRM solutions for real business needs.</h1>
             <p className="hero-text">
-              Salesforce Developer and Administrator focused on building polished CRM experiences, smart workflow
-              automation, and reliable integrations that teams actually want to use every day.
+              I am Arpit Patel, a Salesforce Developer based in Indore. I help teams across Indore and remote clients
+              build polished Salesforce CRM experiences, smart workflow automation, and reliable integrations that
+              teams actually want to use every day.
             </p>
 
             <div className="hero-actions">

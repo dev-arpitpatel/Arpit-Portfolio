@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dev-arpitpatel.github.io/Arpit-Portfolio/sitemap.xml
