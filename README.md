@@ -37,5 +37,4 @@ Once deployed, Render provides a URL like `https://<your-project>.onrender.com`.
 
 Contact:
 - Email: arpitpatel0930@gmail.com
-- Phone: +91 8120930420
 - LinkedIn: https://www.linkedin.com/in/arpit-patel-b725b1187
