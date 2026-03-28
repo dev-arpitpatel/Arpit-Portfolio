@@ -148,7 +148,7 @@ export default function App() {
   const email = 'arpitpatel0930@gmail.com';
 
   const proofStats = [
-    { value: '2.7+', label: 'Years Experience' },
+    { value: '2.8+', label: 'Years Experience' },
     { value: '2x', label: 'Salesforce Certifications' },
     { value: '4+', label: 'Key Projects Delivered' },
     { value: '50+', label: 'Reusable Style Variations Built' },
