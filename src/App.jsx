@@ -395,7 +395,7 @@ export default function App() {
               description="A high-trust introduction for recruiters, clients, and hiring managers reviewing technical fit."
             />
             <p className="body-copy">
-              Salesforce Developer and Administrator with over 2.7 years of hands-on experience and two Salesforce
+              Salesforce Developer and Administrator with over 2.8 years of hands-on experience and two Salesforce
               certifications. Adept in Apex, LWC, Visualforce, and Salesforce automation through Flows and workflow
               design. Skilled in integrating third-party tools and delivering scalable, business-focused Salesforce
               solutions. Strong collaborator and quick learner, ready to adapt to platforms like Certinia when needed.
