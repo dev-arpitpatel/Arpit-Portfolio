@@ -530,6 +530,15 @@ export default function App() {
 
       <footer className="site-footer">
         <p>© {new Date().getFullYear()} Arpit Patel. Salesforce Developer Portfolio.</p>
+        <div className="visitor-chip">
+          <span className="visitor-chip-dot" />
+          <span className="visitor-chip-label">Portfolio Views</span>
+          <img
+            src="https://visitor-badge.laobi.icu/badge?page_id=arpit.patel.portfolio&left_color=%230f9db2&right_color=%231461a1&left_text=visitors"
+            alt="Visitor count"
+            className="visitor-chip-badge"
+          />
+        </div>
       </footer>
     </div>
   );

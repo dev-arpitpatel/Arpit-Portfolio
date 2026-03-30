@@ -837,6 +837,51 @@ a {
   text-align: center;
 }
 
+.visitor-badge {
+  margin-top: 0.5rem;
+  height: 18px;
+  opacity: 0.75;
+}
+
+.visitor-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  margin-top: 0.7rem;
+  padding: 0.32rem 0.75rem 0.32rem 0.55rem;
+  background: var(--accent-soft);
+  border: 1px solid rgba(15, 157, 178, 0.2);
+  border-radius: 999px;
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: var(--accent-dark);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.visitor-chip-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--accent);
+  flex-shrink: 0;
+  animation: pulse-dot 2s ease-in-out infinite;
+}
+
+.visitor-chip-label {
+  opacity: 0.8;
+}
+
+.visitor-chip-badge {
+  height: 16px;
+  display: block;
+}
+
+@keyframes pulse-dot {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.5; transform: scale(0.8); }
+}
+
 @keyframes floatOrb {
   0%,
   100% {
